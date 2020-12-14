@@ -17,7 +17,7 @@ My credentials include a degree in Mechanical Engineering at the Fluminense Fede
 
 **Links:**
 * [Blog]
-* [LinkedIn]
+* [LinkedIn](https://www.linkedin.com/in/rubens-pohlmann-553a37167/)
 * [Medium](https://www.medium.com)
 
 
