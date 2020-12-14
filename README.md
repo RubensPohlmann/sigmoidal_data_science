@@ -24,7 +24,7 @@ My credentials include a degree in Mechanical Engineering at the Fluminense Fede
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Analisando os dados do Airbnb:** https://colab.research.google.com/drive/1pu-wYJNQ0-V2jXgtjzCves4ZvSQOaVSk
 
 
 ---
